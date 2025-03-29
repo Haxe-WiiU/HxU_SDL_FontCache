@@ -1,0 +1,14 @@
+{
+    "name": "hxSDL_FontCache",
+    "url": "https://github.com/Slushi-Github/hxSDL_FontCache",
+    "license": "Apache",
+    "tags": [
+        "native"
+    ],
+    "description": "Haxe @:native bindings for SDL_FontCache, a font caching library for SDL2",
+    "version": "1.0.0",
+    "releasenote": "",
+    "contributors": [
+        "Slushi"
+    ]
+}
